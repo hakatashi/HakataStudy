@@ -3,7 +3,7 @@
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 
-A Series of My Practical Drawings
+A Series of My Practice Drawings
 
 [![](thumbnails/hkt001.webp)](hkt001.png) [![](thumbnails/hkt002.webp)](hkt002.png) [![](thumbnails/hkt003.webp)](hkt003.png) [![](thumbnails/hkt004.webp)](hkt004.png) 
 [![](thumbnails/hkt005.webp)](hkt005.png) [![](thumbnails/hkt006.webp)](hkt006.png) [![](thumbnails/hkt007.webp)](hkt007.png) [![](thumbnails/hkt008.webp)](hkt008.png) 
