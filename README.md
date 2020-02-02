@@ -17,3 +17,5 @@ A Series of My Practice Drawings
 [![](thumbnails/hkt037.webp)](hkt037.png) [![](thumbnails/hkt038.webp)](hkt038.png) [![](thumbnails/hkt039.webp)](hkt039-edit.png) [![](thumbnails/hkt040.webp)](hkt040.png) 
 [![](thumbnails/hkt041.webp)](hkt041.png) [![](thumbnails/hkt042.webp)](hkt042.png) [![](thumbnails/hkt043.webp)](hkt043.png) [![](thumbnails/hkt044.webp)](hkt044.png) 
 [![](thumbnails/hkt045.webp)](hkt045.png) [![](thumbnails/hkt046.webp)](hkt046.png) [![](thumbnails/hkt047.webp)](hkt047.png) [![](thumbnails/hkt048.webp)](hkt048.png) 
+[![](thumbnails/hkt049.webp)](hkt049.png) [![](thumbnails/hkt050.webp)](hkt050.png) [![](thumbnails/hkt051.webp)](hkt051.png) [![](thumbnails/hkt052.webp)](hkt052.png) 
+[![](thumbnails/hkt053.webp)](hkt053.png) [![](thumbnails/hkt054.webp)](hkt054.png) [![](thumbnails/hkt055.webp)](hkt055.png) [![](thumbnails/hkt056.webp)](hkt056.png) 
