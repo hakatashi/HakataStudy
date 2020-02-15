@@ -4,12 +4,14 @@ mkdir -p thumbnails
 
 for ((i=1; ; i++)); do
   id="$(printf "%03d" $i)"
-  if [ ! -f "hkt$id.png" ]; then
+  if [ ! -f "hkt$id.png" ] && [ ! -f "hkt$id.jpg" ]; then
     break
   fi
 
   if [ -f "hkt$id-edit.png" ]; then
     infile="hkt$id-edit.png"
+  elif [ -f "hkt$id.jpg" ]; then
+    infile="hkt$id.jpg"
   else
     infile="hkt$id.png"
   fi
